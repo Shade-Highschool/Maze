@@ -1,0 +1,2 @@
+Generování bludištì
+Algoritmus vlna - hledání cesty v bludišti
